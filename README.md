@@ -5,7 +5,7 @@ We believe that our mission is best served in an environment that is friendly, s
 ## tl;dr
 
 - Be respectful.
-- We're here to help on our [Telegram](https://t.me/1ramp).
+- We're here to help on our [Telegram](https://t.me/dao1ramp).
 - Abusive behavior is never tolerated.
 - Violations of this code may result in swift and permanent expulsion from the community.
 - "Too long, didn't read" is not a valid excuse for not knowing what is in this document.
@@ -73,13 +73,13 @@ On Telegram, tag our @admins and let them know if you think that someone has tra
 
 ## Contact Info
 
-The most effective way to get in contact with our community is through our [Telegram](https://t.me/1ramp).
+The most effective way to get in contact with our community is through our [Telegram](https://t.me/dao1ramp).
 
 If you need to report a problem or privately address an abuse report, please contact directly the [abuse team](mailto:abuse@1ramp.org) through email.
 
 We will keep all matters confidential and they will only be shared within the partners, with the exception of legal counsel when deemed necessary, or unless given explicit permission by the reporter.
 
-You are also encouraged to ask our [Telegram](https://t.me/1ramp) about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
+You are also encouraged to ask our [Telegram](https://t.me/dao1ramp) about something that might be "on the line" between appropriate and inappropriate content. We are happy to provide guidance to help you be a successful part of our community.
 
 ## Changes
 

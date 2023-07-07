@@ -1,8 +1,8 @@
-# 1RAMP DAO Community Code of Conduct
+# 1RAMP Community Code of Conduct <!-- omit in toc -->
 
 We believe that our mission is best served in an environment that is friendly, safe, and accepting, and free from intimidation or harassment. Towards this end, certain behaviors and practices will not be tolerated.
 
-## tl;dr
+## tl;dr <!-- omit in toc -->
 
 - Be respectful.
 - We're here to help on our [Telegram](https://t.me/dao1ramp).
@@ -10,7 +10,7 @@ We believe that our mission is best served in an environment that is friendly, s
 - Violations of this code may result in swift and permanent expulsion from the community.
 - "Too long, didn't read" is not a valid excuse for not knowing what is in this document.
 
-## Table of Contents
+## Table of Contents <!-- omit in toc -->
 
 - [Scope](#scope)
 - [Friendly Harassment-Free Space](#friendly-harassment-free-space)
